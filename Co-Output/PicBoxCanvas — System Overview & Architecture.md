@@ -61,5 +61,3 @@ flowchart LR
 5. `BackImageGraphics.vb` (background image drawing)
 
 ---
-
-If you'd like, I’ll update `.github/copilot-instructions.md` to reference `docs/` and add a short checklist for agents to follow before making edits (e.g., run Visual Studio, create test app, verify manual test checklist). Shall I update the Instruction file now?
