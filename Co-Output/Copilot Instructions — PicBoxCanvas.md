@@ -47,6 +47,3 @@ Short, actionable guidance to get an AI coding agent productive in this reposito
 ## Notes & limitations (what the agent couldn't find)
 - No automated tests, CI config, or contribution guide were detected; presume that maintainers rely on manual verification and Visual Studio builds.
 - Target framework & external package details should be verified in `PicBoxCanvas.vbproj` before significant project-system edits.
-
----
-If you'd like, I can: (1) open the project files to extract exact target framework and references and update the file with precise build commands; or (2) add a short local test scaffold (small WinForms test app) to the repo so future changes are easier to validate. Which would you prefer?
