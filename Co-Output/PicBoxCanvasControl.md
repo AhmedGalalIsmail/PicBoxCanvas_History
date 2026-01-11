@@ -97,5 +97,3 @@ sequenceDiagram
 - Resize window while dragging to ensure buffers are reallocated properly and no flicker occurs.
 
 ---
-
-Next: I can generate a similar doc for rendering helpers (`BackImageGraphics.vb`, `Rulers.vb`, `MeasureSys.vb`) and include small mermaid diagrams showing how the graphics pipeline composes them. Shall I continue with the rendering helpers?
