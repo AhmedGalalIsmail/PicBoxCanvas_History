@@ -101,5 +101,3 @@ sequenceDiagram
 - Memory test: resize control repeatedly and assert that the number of allocated Bitmaps is bounded (no leaks).
 
 ---
-
-If this is OK, I'll (1) commit `docs/RenderingHelpers.md`, and (2) proceed to document UI element files (`SelectionBoxElement.vb`, `ZoomButton.vb`) and then consolidate all per-file diagrams into a single overall system diagram. Shall I proceed with UI elements next?
